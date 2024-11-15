@@ -7,7 +7,7 @@ export const DUMMY_CHAT = {
   messages: [
     {
       sender: Sender.User,
-      content: "Hi Better Health AI",
+      content: "Hi CELECARE AI",
     },
     {
       sender: Sender.Model,
