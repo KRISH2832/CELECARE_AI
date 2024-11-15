@@ -97,8 +97,8 @@ export default function AnimatedCardOptions() {
     <div className="min-h-screen flex flex-col items-center bg-gradient-to-b from-green-50 to-white dark:from-background dark:to-background">
       <header className="shadow-md bg-background  w-full">
         <div className="container mx-auto py-6 px-4 sm:px-6 lg:px-8 flex justify-between items-center">
-          <Link href={"/"} className="text-3xl flex font-bold gap-2">Better <span className="text-app-primary flex gap-2 items-center">
-          Health </span></Link>
+          <Link href={"/"} className="text-3xl flex font-bold gap-2">CELECARE <span className="text-app-primary flex gap-2 items-center">
+          Ai </span></Link>
           <ModeToggle />
         </div>
       </header>
@@ -141,7 +141,7 @@ export default function AnimatedCardOptions() {
         <div className="container mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
             <div>
-              <h3 className="text-lg font-semibold mb-4 text-green-400">About BetterHealth</h3>
+              <h3 className="text-lg font-semibold mb-4 text-green-400">About CELECARE</h3>
               <p className="text-gray-300">We're committed to providing innovative health solutions for a better you.</p>
             </div>
             <div>
@@ -155,11 +155,11 @@ export default function AnimatedCardOptions() {
             <div>
               <h3 className="text-lg font-semibold mb-4 text-green-400">Contact Us</h3>
               <p className="text-gray-300">1234 Health Street, Wellness City, WC 12345</p>
-              <p className="text-gray-300">contact@betterhealth.com</p>
+              <p className="text-gray-300">contact@CELECARE.com</p>
             </div>
           </div>
           <div className="mt-12 border-t border-gray-700 pt-8 text-center">
-            <p className="text-gray-400">&copy; 2024 BetterHealth. All rights reserved.</p>
+            <p className="text-gray-400">&copy; 2024 CELECARE. All rights reserved.</p>
           </div>
         </div>
       </footer> */}

@@ -47,10 +47,10 @@ export const StepByStepGuide = () => {
         Step-by-Step Guide
       </h2>
       <p className='md:w-3/4 mx-auto mt-4 mb-8 text-xl text-muted-foreground'>
-        At BetterHealth, we aim to simplify nutrition and personal care for you.
+        At CELECARE, we aim to simplify nutrition and personal care for you.
         Whether you are aiming to lose weight, gain weight, or simply stay
         healthy, our AI-powered app is here to guide you through every step of
-        your journey. Here is what you can do with BetterHealth
+        your journey. Here is what you can do with CELECARE
       </p>
 
       <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8'>

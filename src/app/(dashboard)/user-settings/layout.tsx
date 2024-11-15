@@ -18,7 +18,7 @@ export default function RootLayout({
         <div className="min-h-screen w-full flex flex-col">
       <nav className="w-full flex items-center p-3 justify-center gap-3">
         <h1 className="flex font-semibold text-3xl">
-          Better <span className="text-app-primary">Health</span>
+          CELECARE <span className="text-app-primary">Health</span>
         </h1>
         <ModeToggle />
       </nav>

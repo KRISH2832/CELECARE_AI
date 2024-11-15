@@ -13,7 +13,7 @@ export const LandingPageFooter = () => {
             className='font-bold text-xl flex'
           >
             {/*  <LogoIcon /> */}
-            Better Health
+            CELECARE
           </a>
         </div>
 
@@ -22,7 +22,7 @@ export const LandingPageFooter = () => {
           <div>
             <a
               rel='noreferrer noopener'
-              href='https://github.com/devsahilabhidd'
+              href=''
               className='opacity-60 hover:opacity-100'
             >
               Github
@@ -32,7 +32,7 @@ export const LandingPageFooter = () => {
           <div>
             <a
               rel='noreferrer noopener'
-              href='https://x.com/AbhinavMalviy58'
+              href=''
               className='opacity-60 hover:opacity-100'
             >
               Twitter
@@ -102,7 +102,7 @@ export const LandingPageFooter = () => {
           <div>
             <a
               rel='noreferrer noopener'
-              href='https://discord.gg/2uM2he6GGB'
+              href=''
               className='opacity-60 hover:opacity-100'
             >
               Discord
@@ -118,10 +118,10 @@ export const LandingPageFooter = () => {
           <a
             rel='noreferrer noopener'
             target='_blank'
-            href='https://www.linkedin.com/in/sahil-quraishi-b40287264/'
+            href=''
             className='text-primary transition-all border-primary hover:border-b-2'
           >
-            Wushang Clan
+            CELECARE
           </a>
         </h3>
       </section>

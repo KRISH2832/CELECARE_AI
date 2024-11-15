@@ -24,32 +24,32 @@ interface SociaNetworkslProps {
 
 const teamList: TeamProps[] = [
   {
-    imageUrl: 'https://i.ibb.co/PrHkLzW/dev.jpg',
-    name: 'Devender Singh Rathore',
+    imageUrl: 'https://media.licdn.com/dms/image/v2/D5603AQFd4DwGD9a1Ig/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718313217699?e=1736985600&v=beta&t=Xn20_iUMXwMFg8wLWaa7ZIuVgpKMwXTS-ELHyN3--Q4',
+    name: 'Karan Palan',
     position: 'Software engineer',
     description:
-      'Devender ensures that our vision aligns with user needs, overseeing the project from concept to completion and bringing strategic insight to the team.',
+      'add desc',
     socialNetworks: [
       {
         name: 'Linkedin',
-        url: 'https://www.linkedin.com/in/devender-singh-rathore/',
+        url: 'https://www.linkedin.com/in/karan-palan-476472289/',
       },
       {
         name: 'Github',
-        url: 'https://github.com/dev-rathore',
+        url: 'https://www.linkedin.com/in/krish-gupta-51637b1b8/',
       },
       {
         name: 'Twitter',
-        url: 'https://twitter.com/tweetedbydev',
+        url: 'https://www.linkedin.com/in/shravani-wagh-20a69728a/',
       },
     ],
   },
   {
-    imageUrl: 'https://i.ibb.co/BC71sZx/sahil.jpg',
-    name: 'Sahil Qureshi',
+    imageUrl: 'https://media.licdn.com/dms/image/v2/D5603AQG9vT7EMYm2wg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1706681242772?e=1736985600&v=beta&t=rmcOXXu5cUXKMfwUA-eqAiEhPej0rGA8HLGj4uz-fpw',
+    name: 'Krish Gupta',
     position: 'Software engineer',
     description:
-      'Sahil brings the user interface to life, crafting intuitive and engaging designs that improve user experience and accessibility.',
+      'add desc',
     socialNetworks: [
       {
         name: 'Linkedin',
@@ -66,11 +66,11 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: 'https://i.ibb.co/1T9ffr6/abhinav.jpg',
-    name: 'Abhinav Malviya',
+    imageUrl: 'https://media.licdn.com/dms/image/v2/D5603AQF8-Wm4sfEJeA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715997732752?e=1736985600&v=beta&t=3qkPL4PzjIh3qlU6SIpUCmXkRtpYYNLxnxYXxM5958E',
+    name: 'Shravani Wagh',
     position: 'Software engineer',
     description:
-      'Abhinav leads our development efforts, making crucial technical decisions and guiding the team in building scalable and robust solutions.',
+      'add desc',
     socialNetworks: [
       {
         name: 'Linkedin',
@@ -89,24 +89,7 @@ const teamList: TeamProps[] = [
         url: 'https://www.instagram.com/abhinavmalviya58/?hl=en',
       },
     ],
-  },
-  {
-    imageUrl: 'https://i.ibb.co/KFGfF7s/photo.jpg',
-    name: 'Danish Deshmukh',
-    position: 'Software engineer',
-    description:
-      'Maintains backend systems to keep everything running smoothly.',
-    socialNetworks: [
-      {
-        name: 'Linkedin',
-        url: 'https://www.linkedin.com/in/danish-deshmukh-3255082a8/',
-      },
-      {
-        name: 'Github',
-        url: 'https://github.com/Danish-Deshmukh',
-      },
-    ],
-  },
+  }
 ];
 
 export const Team = () => {
@@ -132,8 +115,8 @@ export const Team = () => {
   return (
     <section id='team' className='container py-24 sm:py-32 p-3'>
       <h2 className='text-3xl md:text-4xl font-bold'>
-        <span className=' text-app-primary bg-clip-text'>Our Dedicated </span>
-        Team
+         Team 
+        <span className=' text-app-primary bg-clip-text'>   CELECARE </span>
       </h2>
 
       <p className='mt-4 mb-10 text-xl text-muted-foreground'>

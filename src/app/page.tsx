@@ -26,7 +26,7 @@ export default function Home() {
       <div className='flex flex-1 w-full min-h-[90vh] flex-col items-center justify-center '>
         <div className='max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center mt-10'>
           <h1 className='text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white sm:text-5xl md:text-6xl'>
-            Welcome to <span className='text-app-primary'>Better Health</span> –
+            Welcome to <span className='text-app-primary'>CELECARE</span> –
             Your Personalized Health Assistant
           </h1>
           <p className='mt-3 max-w-md mx-auto text-base text-gray-500 dark:text-gray-400 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl'>
@@ -70,10 +70,11 @@ export default function Home() {
         </div>
         <div className='mt-16 w-full max-w-4xl mx-auto'>
           <div className='aspect-w-16 aspect-h-9'>
+            add demo video
             <iframe
               className='w-full h-[400px] rounded-lg shadow-lg'
-              src='https://www.youtube.com/embed/D2x0GmiISKc'
-              title='BetterHealth Introduction'
+              src=''
+              title='CELECARE Introduction'
               allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
               allowFullScreen
             ></iframe>
